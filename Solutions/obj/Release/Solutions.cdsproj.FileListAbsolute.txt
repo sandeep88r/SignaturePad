@@ -1,2 +1,0 @@
-D:\PCF\PenInput1\Solutions\obj\Release\Solutions.cdsproj.AssemblyReference.cache
-D:\PCF\PenInput1\Solutions\obj\Release\Solutions.cdsproj.CoreCompileInputs.cache
